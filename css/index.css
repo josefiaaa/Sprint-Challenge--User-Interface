@@ -71,6 +71,27 @@ p {
     margin: 0 auto;
 }
 
+.index-head{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+    align-items: center;
+}
+
+.jumbo {
+    margin-bottom: 20px;
+}
+
+.city{
+    margin-left: 40px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    margin-right: 60px;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -144,3 +165,4 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
