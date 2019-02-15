@@ -180,6 +180,11 @@ nav a {
     background: dodgerblue;
 }
 
+.about-picture {
+    padding-bottom: 20px;
+    padding-right: 40px;
+}
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -195,7 +200,7 @@ nav a {
 }
 
 .bottom-info {
-    margin: 20px 0;
+    margin-bottom: 20px;
 }
 
 button {
@@ -203,6 +208,7 @@ button {
     border-radius: 5px;
     padding: 10px;
     width: 120px;
+    margin-top: 20px;
 }
 
 footer {
@@ -217,6 +223,7 @@ footer nav {
     align-items: center;
     padding: 20px 2%;
     font-size: 14px;
+    margin-top: 30px;
 }
 
 footer nav a {
